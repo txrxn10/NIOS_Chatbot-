@@ -1,0 +1,17 @@
+# Environment & Secret keys
+.env
+*.env
+
+# Python virtual environment & caches
+.venv/
+__pycache__/
+*.pyc
+*.zip
+
+# Local data caches & databases
+data/embeddings_cache.json
+data/titan_embeddings_cache.json
+
+# VS Code & OS artifacts
+.vscode/
+.DS_Store

@@ -1,0 +1,6 @@
+google-genai
+psycopg2-binary
+pgvector
+python-dotenv
+ipykernel
+jupyter
